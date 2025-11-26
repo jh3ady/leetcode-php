@@ -37,18 +37,18 @@ Each PHP file corresponds to a LeetCode problem and contains one or more solutio
 
 ## 📚 How to Run
 
-Ensure PHP is installed (version 7.4+ recommended).
+Ensure PHP is installed (version 8.5+ recommended).
 
 Run:
 
 ```bash
-php src/index.php
+composer start
 ```
 
 Run tests (if applicable):
 
 ```bash
-phpunit
+composer test
 ```
 
 ## 📈 Progress

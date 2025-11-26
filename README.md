@@ -26,6 +26,7 @@ Each PHP file corresponds to a LeetCode problem and contains one or more solutio
 
 | Problem Title   | GitHub Link                                    | LeetCode Link                                                                                    |
 | --------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| Two Sum         | [src/TwoSum.php](src/TwoSum/Solution.php)               | [https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/two-sum/)                 |
 
 ## 🚀 Goals
 
@@ -41,7 +42,7 @@ Ensure PHP is installed (version 7.4+ recommended).
 Run:
 
 ```bash
-php src/TwoSum.php
+php src/index.php
 ```
 
 Run tests (if applicable):
